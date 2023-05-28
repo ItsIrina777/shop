@@ -7,3 +7,19 @@
     padding: 0;
     margin: 0;
 }
+img {
+    display:block;
+    width: 100%;
+}
+.soap-item {
+    width: 300px;
+    box-shadow: 2px 2px 5px rgb(53, 65, 76);
+}
+body {
+    background-image: linear-gradient(to right, lightblue, white, lightblue);
+}
+.pages-list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
